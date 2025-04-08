@@ -1,0 +1,289 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+     /* <---------header--------start-------> */
+     header {
+        padding: 5px 0;
+    }
+    .logo {
+        width: 180px;
+    }
+    .menu ul li a {
+        padding: 0 0 5px 10px !important;
+    }
+    /* <---------header--------end-------> */
+     /* <-------banner---start-----------> */
+     .banner {
+        padding-bottom: 60px;
+    }
+    .b_text {
+        text-align: center;
+    } 
+    .b_h1 {
+        margin: 10px 0px 20px;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .b_img {
+        margin: 0 0 30px;
+    }
+    .b_p2 {
+        margin: 0 0;
+        line-height: 30px;
+    }
+    
+    /* <-------banner---end-----------> */
+    /* <---------feature-----item------start----------> */
+    .c_p{
+        padding-bottom:60px;
+    }
+    .f_item {
+        margin-top: 30px;
+    }
+    
+    /* <---------feature-----item------end----------> */
+    /* <------------course-----start-----------> */
+    .c_h1 {
+        font-size: 25px;
+    }
+
+    .s_course {
+        margin: 30px 0px 0;
+        padding: 20px 15px 25px;
+    }
+    .s_h2 {
+        font-size: 22px;
+    }
+    /* <------------course-----end-----------> */
+     /* <--------carasol-------item--start----> */
+    
+
+     .t_item {
+        margin-top: 40px;
+    }
+    .t_img {
+        padding: 0 50px 20px;
+    }
+    .t_p {
+            text-align: center;
+    }
+
+    .c_p {
+        padding-bottom: 30px;
+    }
+    .t_item {
+        margin-top: 30px;
+    }
+
+    /* <--------carasol-------item---end---> */
+    /* <----------footer-top--start------> */
+    .footer_top {
+        text-align: center;
+        padding: 55px 0 20px;
+    }
+    .ft_details {
+        margin-bottom: 35px;
+        padding-right: 0px;
+    }
+    .ft_link {
+        margin-bottom: 35px;
+    }
+   /* <----------footer-top--start------> */
+
+}
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* <---------header--------start-------> */
+    header {
+        padding: 5px 0;
+    }
+    .logo {
+        width: 180px;
+    }
+    .menu ul li a {
+        padding: 0 0 5px 10px !important;
+    }
+    /* <---------header--------end-------> */
+    /* <-------banner---start-----------> */
+    .banner {
+        padding-bottom: 60px;
+    }
+    .b_text {
+        text-align: center;
+    } 
+    .b_h1 {
+        margin: 10px 120px 20px;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .b_img {
+        margin: 0 50px 30px;
+    }
+    .b_p2 {
+        margin: 0 80px;
+        line-height: 30px;
+    }
+    
+    /* <-------banner---end-----------> */
+    /* <---------feature-----item------start----------> */
+    .c_p{
+        padding-bottom:60px;
+    }
+    .f_item {
+        margin-top: 30px;
+    }
+    
+    /* <---------feature-----item------end----------> */
+    /* <------------course-----start-----------> */
+    .c_h1 {
+        font-size: 25px;
+    }
+
+    .s_course {
+        margin: 30px 70px 0;
+        padding: 20px 15px 25px;
+    }
+    .s_h2 {
+        font-size: 22px;
+    }
+    /* <------------course-----end-----------> */
+    /* <--------carasol-------item--start----> */
+    
+
+    .t_item {
+        margin-top: 40px;
+    }
+    .t_img {
+        padding: 0 120px 20px;
+    }
+    .t_p {
+            text-align: center;
+    }
+
+    .c_p {
+        padding-bottom: 30px;
+    }
+    .t_item {
+        margin-top: 30px;
+    }
+
+    /* <--------carasol-------item---end---> */
+    /* <----------footer-top--start------> */
+    .footer_top {
+        text-align: center;
+    }
+    .ft_details{
+        margin-bottom:35px;
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+        
+    
+    
+    /* <----------footer-end------> */
+    
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* <---------header--------start---------> */
+    .menu ul li a {
+        padding: 0 0 5px 10px !important;
+    }
+    /* <---------header--------end---------> */
+    /* <-------banner---start-----------> */
+    .b_text {
+        text-align: center;
+    } 
+    .b_h1 {
+        margin: 10px 170px 20px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .b_img {
+        margin: 0 50px 30px;
+    }
+    .b_p2 {
+        margin: 0 100px;
+        line-height: 30px;
+    }
+    
+    /* <-------banner---end-----------> */
+    /* <---------feature-----item------start----------> */
+    .c_p{
+        padding-bottom:80px;
+    }
+    .f_item {
+        margin-top: 30px;
+    }
+    
+    /* <---------feature-----item------end----------> */
+    /* <------------course-----start-----------> */
+    .c_h1 {
+        font-size: 30px;
+    }
+    .s_course {
+        margin: 60px 100px 0;
+    }
+    .s_course {
+        margin: 40px 100px 0;
+    }
+    /* <------------course-----end-----------> */
+    /* <----------carasol---item---------> */
+    
+        .t_item {
+            margin-top: 40px;
+        }
+    /* <----------carasol---end---------> */
+
+    /* <----------footer-start------> */
+    .footer_top {
+        text-align: center;
+    }
+    .ft_details{
+        margin-bottom:35px;
+        text-align: center;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+        
+    
+    
+    /* <----------footer-start------> */
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* <--------banner----start--------> */
+    .b_h1 {
+        margin: 10px 75px 20px 0;
+    }
+    /* <--------banner----end--------> */
+
+    /* <----------feature------item------start------> */
+    .f_img {
+        width: 55px;
+        height: 70px;
+    }
+    /* <----------feature------item------end------> */
+    
+ }
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* <----banner-----start---------> */
+    .b_h1 {
+        margin: 10px 70px 20px 0;
+    /* <----banner-----end---------> */
+  }
+ }
+ /* Extra extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+    /* <----------footer-top------start---> */
+    .ft_details {
+        padding-right: 130px;
+    }
+    /* <----------footer-top------end---> */
+
+ }
